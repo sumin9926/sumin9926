@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SUMIN's%20GITHUB&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SUMIN's%20GITHUB&fontSize=50" />
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=su9926)](https://solved.ac/su9926/)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumin9926&layout=compact" />
 </div>
